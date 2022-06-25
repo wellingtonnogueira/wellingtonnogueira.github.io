@@ -1,1 +1,7 @@
+---
+layout: post
+title: "Novo teste"
+date: 2022-06-24 22:25:00 -0000
+categories: TESTE
+---
 Este é um teste
