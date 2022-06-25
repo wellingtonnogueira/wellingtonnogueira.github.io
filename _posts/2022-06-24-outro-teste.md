@@ -1,1 +1,7 @@
+---
+layout: post
+title: "Outro teste"
+date: 2022-06-24 22:35:00 -0000
+categories: TESTE
+---
 Um outro teste
