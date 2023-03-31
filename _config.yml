@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+theme: minima
 title: Wellington's page
 email: wellington@well.dev.br
 # description: >- # this means to ignore newlines until "baseurl:"
@@ -33,9 +33,8 @@ linkedin_username: wellington-r-nogueira
 #instagram_username: wellingtonramosnogueira
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
